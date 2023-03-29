@@ -1,11 +1,10 @@
 # react-entrega-kenzie-hub
 
-MELHORIAS:
+Link deploy Vercel:
 
-- Recomendo quando você for criar a tag para retornar um erro do yup, você definir uma altura da tag, dessa forma seu formulário não fica mudando de tamanho a cada erro.
+https://react-entrega-kenzie-hub-glima-dev.vercel.app/
 
-- CRIAR BOTÃO OLHINHO MOSTRAR SENHA NO LOGIN (DEMO SPRINT 4 PT2)
+Melhorias a serem implementadas:
 
-- CRIAR PÁGINA NOT FOUND BEM COMO REDIRECIONAMENTO
-
--
+- Funcionalidade exibir e senha no formulário de login;
+- Página not found para rotas desconhecidas.
